@@ -6,4 +6,4 @@ Moves - R, L, U, D, B, F, RP, LP, UP, DP, BP, FP
 
 scramble (scrambles cube)
 
-solve (solves cube)
+solve (solves cube - using CFOP method)
